@@ -1,2 +1,2 @@
 # primeiro-projeto-git
-Primeiro projeto GITHUB q aprendi nas aulas do professor Junior
+Primeiro projeto GITHUB que aprendi nas aulas do professor Junior
